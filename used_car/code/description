@@ -1,0 +1,5 @@
+### 操作系统版本，MATLAB/Python的版本，需要安装的Python package，使用到的TensorFlow，PyTorch，MXNet的版本等）都需要在requirements.txt文件中写明, 如‘lightgbm==2.3.1’
+### 如果使用深度神经网络，请提供网络定义等内容，确保能够产出预测结果。
+### 如果有需要编译的文件，请提供编译的脚本。
+### 请提供main.py或者main.sh文件作为程序入口。确保可以通过执行该文件来运行预测程序，得到最终结果，并将结果保存到上述的prediction_result/predictions.csv文件中
+### 读入文件的路径请使用相对路径，比如 ../data/XX
